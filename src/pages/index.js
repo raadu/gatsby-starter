@@ -13,6 +13,9 @@ export default function Home() {
           headerText="Contact Header"
         />
       </Link>
+      <Link to="/about/">
+       <h2>About Page</h2>
+      </Link>
       <p>This is so fast</p>
       <img 
         src="https://source.unsplash.com/random/400x200" 
